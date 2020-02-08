@@ -115,14 +115,14 @@ aside {
             color: rgba(darkslateblue, .7);
             &:hover,
             &:focus {
-                color: white;
+                color: darkslateblue;
             }
         }
         .nav > li > a,
         .nav > li > a:focus {
-            color: rgba(white, .7);
+            color: rgba(darkslateblue, .7);
             &:hover {
-                color: white;
+                color: darkslateblue;
             }
         }
         &.affix {
